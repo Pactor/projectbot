@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MetaBuilders.Irc.Network.ClientConnection.resources
+obj\Debug\MetaBuilders.Irc.Network.Ident.resources
+obj\Debug\MetaBuilders.Irc.Messages.MessageConduit.resources
+obj\Debug\MetaBuilders.Irc.NeboResources.resources
+obj\Debug\Nebo.csproj.GenerateResource.Cache
+bin\Debug\MetaBuilders.Irc.dll
+bin\Debug\MetaBuilders.Irc.pdb
+obj\Debug\MetaBuilders.Irc.dll
+obj\Debug\MetaBuilders.Irc.pdb

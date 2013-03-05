@@ -1,0 +1,11 @@
+D:\Projects\ProjectBot\ProjectBot\bin\Debug\ProjectBot.exe
+D:\Projects\ProjectBot\ProjectBot\bin\Debug\ProjectBot.pdb
+D:\Projects\ProjectBot\ProjectBot\bin\Debug\MetaBuilders.Irc.dll
+D:\Projects\ProjectBot\ProjectBot\bin\Debug\MetaBuilders.Irc.pdb
+D:\Projects\ProjectBot\ProjectBot\bin\Debug\MetaBuilders.Irc.xml
+D:\Projects\ProjectBot\ProjectBot\obj\x86\Debug\ProjectBot.csprojResolveAssemblyReference.cache
+D:\Projects\ProjectBot\ProjectBot\obj\x86\Debug\ProjectBot.ProjectBot.resources
+D:\Projects\ProjectBot\ProjectBot\obj\x86\Debug\ProjectBot.Properties.Resources.resources
+D:\Projects\ProjectBot\ProjectBot\obj\x86\Debug\ProjectBot.csproj.GenerateResource.Cache
+D:\Projects\ProjectBot\ProjectBot\obj\x86\Debug\ProjectBot.exe
+D:\Projects\ProjectBot\ProjectBot\obj\x86\Debug\ProjectBot.pdb
